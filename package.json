@@ -1,0 +1,27 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campbellmarianna/Auth-with-JWT-in-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campbellmarianna/Auth-with-JWT-in-Node/issues"
+  },
+  "homepage": "https://github.com/campbellmarianna/Auth-with-JWT-in-Node#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.14"
+  }
+}
